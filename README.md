@@ -14,7 +14,7 @@ The implementation mimics scikit-learn’s API for ease of use (fit, predict, an
 | Jaswanth Reddy Sure    | A20552169    | jsure@hawk.iit.edu         |
 | Vinay kumar moka       | A20552044    | Vmoka@hawk.iit.edu         |
 
----
+---------------------------------------------------------------------
 
 ## **Core Implementation Summary**
 
