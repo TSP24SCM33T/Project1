@@ -7,10 +7,12 @@ The implementation mimics scikit-learn’s API for ease of use (fit, predict, an
 
 ## **Group Members**
 
-| Name            | A-Number     | Email                      |
-|-----------------|-------------|----------------------------|
-| Deepak xyx      | A204444     | dk444444@hawk.iit.edu      |
-
+| Name                   | A-Number     | Email                      |
+|------------------------|--------------|----------------------------|
+| Tarun Sai Tirumala     | A20544933    | ttirumala@hawk.iit.edu     |
+| Lokesh manchikanti     | A20544931    | Lmanchikanti@hawk.iit.edu  |
+| Jaswanth Reddy Sure    | A20552169    | jsure@hawk.iit.edu         |
+| Vinay kumar moka       | A20552044    | Vmoka@hawk.iit.edu         |
 
 ---
 
